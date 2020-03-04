@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-tutorial---monsters-rolodex/static/css/main.c1d00b75.chunk.css",
-    "main.js": "/react-tutorial---monsters-rolodex/static/js/main.3cb61b0c.chunk.js",
-    "main.js.map": "/react-tutorial---monsters-rolodex/static/js/main.3cb61b0c.chunk.js.map",
-    "runtime-main.js": "/react-tutorial---monsters-rolodex/static/js/runtime-main.2cd007c5.js",
-    "runtime-main.js.map": "/react-tutorial---monsters-rolodex/static/js/runtime-main.2cd007c5.js.map",
-    "static/js/2.0d232ef2.chunk.js": "/react-tutorial---monsters-rolodex/static/js/2.0d232ef2.chunk.js",
-    "static/js/2.0d232ef2.chunk.js.map": "/react-tutorial---monsters-rolodex/static/js/2.0d232ef2.chunk.js.map",
-    "index.html": "/react-tutorial---monsters-rolodex/index.html",
-    "precache-manifest.2dcf98721f4752bcf977b911e7403c67.js": "/react-tutorial---monsters-rolodex/precache-manifest.2dcf98721f4752bcf977b911e7403c67.js",
-    "service-worker.js": "/react-tutorial---monsters-rolodex/service-worker.js",
-    "static/css/main.c1d00b75.chunk.css.map": "/react-tutorial---monsters-rolodex/static/css/main.c1d00b75.chunk.css.map",
-    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/react-tutorial---monsters-rolodex/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+    "main.css": "/react-tutorial-monsters-rolodex/static/css/main.c1d00b75.chunk.css",
+    "main.js": "/react-tutorial-monsters-rolodex/static/js/main.eba6a54b.chunk.js",
+    "main.js.map": "/react-tutorial-monsters-rolodex/static/js/main.eba6a54b.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-monsters-rolodex/static/js/runtime-main.54eabd53.js",
+    "runtime-main.js.map": "/react-tutorial-monsters-rolodex/static/js/runtime-main.54eabd53.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/react-tutorial-monsters-rolodex/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/react-tutorial-monsters-rolodex/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/react-tutorial-monsters-rolodex/index.html",
+    "precache-manifest.e45d984dc756db992d713d7101d935d9.js": "/react-tutorial-monsters-rolodex/precache-manifest.e45d984dc756db992d713d7101d935d9.js",
+    "service-worker.js": "/react-tutorial-monsters-rolodex/service-worker.js",
+    "static/css/main.c1d00b75.chunk.css.map": "/react-tutorial-monsters-rolodex/static/css/main.c1d00b75.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/react-tutorial-monsters-rolodex/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cd007c5.js",
+    "static/js/runtime-main.54eabd53.js",
     "static/js/2.0d232ef2.chunk.js",
     "static/css/main.c1d00b75.chunk.css",
-    "static/js/main.3cb61b0c.chunk.js"
+    "static/js/main.eba6a54b.chunk.js"
   ]
 }
