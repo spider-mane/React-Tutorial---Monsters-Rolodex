@@ -3,7 +3,7 @@ import { CardList } from './components/card-list/card-list';
 import { SearchBox } from './components/searchbox/searchbox';
 import './App.css';
 
-class App extends Component {
+export default class App extends Component {
   /**
    * 
    */
@@ -12,7 +12,8 @@ class App extends Component {
 
     this.state = {
       monsters: [],
-      searchField: ''
+      searchField: '',
+      title: ''
     };
 
   }
@@ -29,8 +30,11 @@ class App extends Component {
   /**
    * 
    */
-  handleChange = (e) => {
-    this.setState({ searchField: e.target.value });
+  onSearchChange = (e) => {
+    this.setState({
+      searchField: e.target.value,
+      title: e.target.value
+    });
   }
 
   /**
@@ -44,12 +48,10 @@ class App extends Component {
 
     return (
       <div className="App">
-        <h1>Monsters Rolodex</h1>
-        <SearchBox placeholder="Search Monsters" handleChange={this.handleChange} />
+        <h1>Monsters Rolodex Nigga!</h1>
+        <SearchBox placeholder="Search Monsters" handleChange={this.onSearchChange} />
         <CardList monsters={filteredMonsters} />
       </div>
     );
   }
 }
-
-export default App;
